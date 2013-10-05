@@ -1,6 +1,6 @@
-name := "OpenCms Test Servlet"
+name := "GengoCms"
   
-version := "1.0"
+version := "0.1"
 
 scalaVersion := "2.10.2"
 
